@@ -1,0 +1,14 @@
+body{
+	
+}
+.up{
+	width: 100%;
+	height: 10%;
+	background-color: #ecb12a;
+	z-index: 100;
+}
+
+
+img{
+	width: 100%;
+}
